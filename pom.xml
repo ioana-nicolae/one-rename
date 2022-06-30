@@ -7,14 +7,12 @@
     <artifactId>spring</artifactId>
 	<version>0.2</version>
 
- <dependencies>
-   
+ <dependencies>   
         <dependency>
             <groupId>com.opdar.gulosity</groupId>
             <artifactId>parse</artifactId>
            <version>0.1</version>
-        </dependency>  
-      
+        </dependency>        
  </dependencies>
     <build>
         <plugins>
@@ -22,7 +20,6 @@
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.1.0</version>
         </plugin>
-
 </plugins>
     </build>
 
